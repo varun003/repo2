@@ -3,3 +3,6 @@ git add index.html  -- to add single file to the commit stage
 git status  -- to find status of files
 git commit  [it will open vim editor for adding comments]
 git commit -m "comments" [simple method for commiting and adding comments]
+git branch new-branch [creating new branch]
+git branch [find name of all the branches]
+gti checkout branch2 [for changing to new branch]
