@@ -12,3 +12,6 @@ git checkout branch2 [for changing to new branch]
 git log [for all the log files, which tells about all the previously run commands]
 git rm [deletes the file]
 git rm --cached [to remove from staging area only]
+git remote add origin "git address" [create a remote repo means our github repo and push our local repo to that remote repo]
+
+git push origin master
